@@ -17,4 +17,4 @@ Please make sure to update tests as appropriate.
 
 # License
 
-[LICENSE.md](https://github.com/AntunesLeandro/personal-site/blob/master/readme.md)
+[LICENSE.md](https://github.com/AntunesLeandro/personal-site/blob/master/README.md)
